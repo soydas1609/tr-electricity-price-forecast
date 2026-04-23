@@ -1,0 +1,20 @@
+{
+  "SeasonalNaive": {
+    "mae": 4.74,
+    "mape": 0.29,
+    "rmse": 5.41,
+    "r2": 0.9976
+  },
+  "Ridge": {
+    "mae": 2.29,
+    "mape": 0.14,
+    "rmse": 2.9,
+    "r2": 0.9993
+  },
+  "GradientBoosting": {
+    "mae": 3.17,
+    "mape": 0.19,
+    "rmse": 4.07,
+    "r2": 0.9987
+  }
+}

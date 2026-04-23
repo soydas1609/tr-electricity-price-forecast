@@ -1,0 +1,16 @@
+pandas>=2.0
+numpy
+scikit-learn
+lightgbm
+xgboost
+matplotlib
+seaborn
+jupyter
+nbconvert
+entsoe-py
+requests
+python-dotenv
+pytest
+open-meteo-requests
+requests-cache
+retry-requests
